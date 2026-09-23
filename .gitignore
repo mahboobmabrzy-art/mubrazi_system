@@ -1,0 +1,7 @@
+.env
+mubrazi.db
+server.log
+service_account.json
+creds.json
+__pycache__/
+*.pyc
